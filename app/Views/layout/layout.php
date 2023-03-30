@@ -13,7 +13,8 @@
 
     <!-- Custom fonts for this template-->
     <link href="./aset/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <script src="https://kit.fontawesome.com/7a62a427e6.js" crossorigin="anonymous"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/fontawesome.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     <!-- Custom styles for this template-->
@@ -35,12 +36,12 @@
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
 
-                <a class="navbar-brand" href="#">
-                            <img src=".\aset\img\Lambang_KotaSingkawang.webp" width="30" alt=""> Sistem Infromasi Pasien
-                        </a>
+                    <a class="navbar-brand" href="#">
+                        <img src=".\aset\img\Lambang_KotaSingkawang.webp" width="30" alt=""> Sistem Infromasi Pasien
+                    </a>
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
-                        
+
                         <div class="topbar-divider d-none d-sm-block"></div>
 
                         <!-- Nav Item - User Information -->
@@ -77,13 +78,10 @@
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid">
-                    <?= $this->renderSection('content'); ?>
-                    <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Blank Page</h1>
 
-                </div>
-                <!-- /.container-fluid -->
+                <?= $this->renderSection('content'); ?>
+
+
 
             </div>
             <!-- End of Main Content -->

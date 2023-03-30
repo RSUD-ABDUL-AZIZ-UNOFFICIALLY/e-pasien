@@ -26,6 +26,6 @@ class Home extends BaseController
             'page_title' => 'SIP - Pendaftaran Akun',
         ];
 
-        return view('/layout/layout', $data);
+        return view('/pasien/home', $data);
     }
 }
