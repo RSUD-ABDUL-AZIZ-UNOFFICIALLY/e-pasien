@@ -6,6 +6,18 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('welcome_message');
+        $data = [
+            'page_title' => 'SIP - Sistem Informasi Pasien',
+        ];
+
+        return view('/pasien/login', $data);
+    }
+    public function register()
+    {
+        $data = [
+            'page_title' => 'SIP - Pendaftaran Akun',
+        ];
+
+        return view('/pasien/register', $data);
     }
 }
