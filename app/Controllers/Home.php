@@ -20,4 +20,12 @@ class Home extends BaseController
 
         return view('/pasien/register', $data);
     }
+    public function home()
+    {
+        $data = [
+            'page_title' => 'SIP - Pendaftaran Akun',
+        ];
+
+        return view('/layout/layout', $data);
+    }
 }
