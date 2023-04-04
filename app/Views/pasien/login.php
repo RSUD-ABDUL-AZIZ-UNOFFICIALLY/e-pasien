@@ -22,11 +22,11 @@
                             <div class="form-group">
                                 <input type="text" class="form-control form-control-user" id="exampleInputPassword" placeholder="OTP">
                             </div>
-                            <a href="index.html" class="btn btn-primary btn-user btn-block">
+                            <a href="/home" class="btn btn-primary btn-user btn-block">
                                 Login
                             </a>
                             <hr>
-                            <a href="index.html" class="btn btn-danger btn-user btn-block">
+                            <a href="/register" class="btn btn-danger btn-user btn-block">
                             <i class="fa-regular fa-user fa-bounce"></i>    Buat Akun
                             </a>
                             <div class="text-center">
