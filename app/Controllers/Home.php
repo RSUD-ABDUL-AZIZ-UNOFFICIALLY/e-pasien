@@ -23,9 +23,25 @@ class Home extends BaseController
     public function home()
     {
         $data = [
-            'page_title' => 'SIP - Pendaftaran Akun',
+            'page_title' => 'SIP - RSUD dr.Abdul Aziz',
         ];
 
         return view('/pasien/home', $data);
+    }
+    public function dfantri()
+    {
+        $data = [
+            'page_title' => 'SIP - Daftar Antrian Online',
+        ];
+
+        return view('/pasien/antrian', $data);
+    }
+    public function dkeluarga()
+    {
+        $data = [
+            'page_title' => 'SIP - Daftar Antrian Online',
+        ];
+
+        return view('/pasien/keluarga', $data);
     }
 }

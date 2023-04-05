@@ -9,7 +9,7 @@
                 <div class="card text-center">
                     <img src="./aset/img/family.png" class="card-img-top p-4" alt="family">
                     <div class="card-body">
-                        <a href="#" class="btn btn-sm btn-primary">Tambah Anggota Keluarga</a>
+                        <a href="/keluarga" class="btn btn-sm btn-primary">Tambah Anggota Keluarga</a>
                     </div>
                 </div>
             </div>
@@ -17,7 +17,7 @@
                 <div class="card text-center">
                     <img src="./aset/img/voting.png" class="card-img-top p-4" alt="family">
                     <div class="card-body">
-                        <a href="#" class="btn btn-sm btn-primary"> Daftar Antrian Online</a>
+                        <a href="/antrian" class="btn btn-sm btn-primary">Daftar Antrian Online</a>
                     </div>
                 </div>
             </div>
@@ -31,9 +31,41 @@
             </div>
             <div class="col-6">
                 <div class="card text-center">
+                    <img src="./aset/img/public-relations.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Antrian Onlien</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
                     <img src="./aset/img/medical-history.png" class="card-img-top p-4" alt="family">
                     <div class="card-body">
                         <a href="#" class="btn btn-sm btn-primary">Riwayat</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/medical-team.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Jadwal Poli</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/dissatisfaction.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Pengaduan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/check-out.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Keluar</a>
                     </div>
                 </div>
             </div>

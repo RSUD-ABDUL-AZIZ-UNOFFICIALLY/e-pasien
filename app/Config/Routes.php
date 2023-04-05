@@ -32,6 +32,8 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes->get('/register', 'Home::register');
 $routes->get('/home', 'Home::home');
+$routes->get('/antrian', 'Home::dfantri');
+$routes->get('/keluarga', 'Home::dkeluarga');
 
 /*
  * --------------------------------------------------------------------
