@@ -18,7 +18,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img src=".\aset\img\Lambang_KotaSingkawang.webp" alt="Logo" width="30"  class="d-inline-block align-text-top">
-                Sistem Infromasi Pasien
+                Sistem Informasi Pasien
             </a>
         </div>
     </nav>
