@@ -17,7 +17,39 @@
                 <div class="card text-center">
                     <img src="./aset/img/voting.png" class="card-img-top p-4" alt="family">
                     <div class="card-body">
-                        <a href="/antrian" class="btn btn-sm btn-primary">Daftar Antrian Online</a>
+                        <a href="#" class="btn btn-sm btn-primary">Daftar Antrian Online</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/lab-technician.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Lihat Hasil Lab</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/voting.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/lab-technician.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Pengaduan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card text-center">
+                    <img src="./aset/img/voting.png" class="card-img-top p-4" alt="family">
+                    <div class="card-body">
+                        <a href="#" class="btn btn-sm btn-primary">Jadwal Dokter</a>
                     </div>
                 </div>
             </div>
